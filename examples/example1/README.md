@@ -6,7 +6,7 @@ Video tutorial: [https://www.youtube.com/watch?v=AHgMzBAnnP0](https://www.youtub
 1. Download the [example files](example_1-sample_files.zip).
 2. Link the "videos" from the example files.
 ![Step 2](images/02.jpg?raw=true)
-3. Adjust the frame size to match the video dimensions. If they differ, the videos will be scaled to fit.
+3. Adjust the frame size to match the video dimensions. If they differ, the videos will be scaled to cover.
 ![Step 3](images/03.jpg?raw=true)
 4. Create a new layer.
 ![Step 4](images/04.jpg?raw=true)
